@@ -1,0 +1,8 @@
+# build output
+/shipit
+/dist/
+
+# never commit settings or keys
+.env
+.env.*
+!.env.example
